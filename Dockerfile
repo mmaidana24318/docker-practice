@@ -1,3 +1,5 @@
+# Author: Melisa Maidana
+
 FROM jupyter/scipy-notebook
 
 USER root
